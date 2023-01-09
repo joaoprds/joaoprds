@@ -26,8 +26,9 @@
 </div>
 <div align="left">
   <h3>currently studying</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" width="42" alt="Solidity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="Golang logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="Angular logo"  />
 </div>
 
 ###
@@ -45,6 +46,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/joaoprds/joaoprds/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
